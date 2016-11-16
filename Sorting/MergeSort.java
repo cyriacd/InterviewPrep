@@ -1,5 +1,9 @@
 import java.util.*;
-public class Sorting{
+public class MergeSort implements Sort{
+  public int[] sort(int[] a){
+    return mergesort(a,0,a.length);
+  }
+
   static int[] mergesort(int[] a, int l, int r){
     if(l+1<r){
       int m = (l+r)/2;
