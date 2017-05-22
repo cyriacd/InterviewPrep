@@ -1,0 +1,134 @@
+SpiralArray.java:15: error: ';' expected
+SpiralArray.java:15: error: ';' expected
+   for(int i = start, i < end, i++){
+                       ^
+   for(int i = start, i < end, i++){
+                       ^
+SpiralArray.java:15: error: > expected
+SpiralArray.java:15: error: > expected
+   for(int i = start, i < end, i++){
+   for(int i = start, i < end, i++){
+                                ^
+                                ^
+SpiralArray.java:15: error: ';' expected
+SpiralArray.java:15: error: ';' expected
+   for(int i = start, i < end, i++){
+   for(int i = start, i < end, i++){
+                                  ^
+                                  ^
+SpiralArray.java:15: error: illegal start of expression
+SpiralArray.java:15: error: illegal start of expression
+   for(int i = start, i < end, i++){
+   for(int i = start, i < end, i++){
+                                   ^
+                                   ^
+SpiralArray.java:15: error: ')' expected
+SpiralArray.java:15: error: ')' expected
+   for(int i = start, i < end, i++){
+   for(int i = start, i < end, i++){
+                                    ^
+                                    ^
+SpiralArray.java:16: error: illegal start of expression
+SpiralArray.java:16: error: illegal start of expression
+     System.out.print(matrix[row][i] + " ");
+     System.out.print(matrix[row][i] + " ");
+           ^
+           ^
+SpiralArray.java:16: error: ';' expected
+SpiralArray.java:16: error: ';' expected
+     System.out.print(matrix[row][i] + " ");
+     System.out.print(matrix[row][i] + " ");
+               ^
+               ^
+SpiralArray.java:16: error: variable declaration not allowed here
+SpiralArray.java:16: error: variable declaration not allowed here
+     System.out.print(matrix[row][i] + " ");
+     System.out.print(matrix[row][i] + " ");
+            ^
+            ^
+SpiralArray.java:19: error: class, interface, or enum expected
+SpiralArray.java:19: error: class, interface, or enum expected
+  private static void printCol(int col, int start, int end){
+  private static void printCol(int col, int start, int end){
+                 ^
+                 ^
+SpiralArray.java:22: error: class, interface, or enum expected
+SpiralArray.java:22: error: class, interface, or enum expected
+   }
+   }
+   ^
+   ^
+SpiralArray.java:26: error: class, interface, or enum expected
+SpiralArray.java:26: error: class, interface, or enum expected
+    printRow(rHead,rHead,rTail); 
+    printRow(rHead,rHead,rTail); 
+    ^
+    ^
+SpiralArray.java:28: error: class, interface, or enum expected
+SpiralArray.java:28: error: class, interface, or enum expected
+  }
+  }
+  ^
+  ^
+SpiralArray.java:29: error: class, interface, or enum expected
+SpiralArray.java:29: error: class, interface, or enum expected
+  public static void main(String[] args){
+  public static void main(String[] args){
+                ^
+                ^
+SpiralArray.java:31: error: class, interface, or enum expected
+SpiralArray.java:31: error: class, interface, or enum expected
+    int i = 0;
+    int i = 0;
+    ^
+    ^
+SpiralArray.java:32: error: class, interface, or enum expected
+SpiralArray.java:32: error: class, interface, or enum expected
+    for(int r = 0; r < matrix[0].length; r++){
+    for(int r = 0; r < matrix[0].length; r++){
+    ^
+    ^
+SpiralArray.java:32: error: class, interface, or enum expected
+SpiralArray.java:32: error: class, interface, or enum expected
+    for(int r = 0; r < matrix[0].length; r++){
+    for(int r = 0; r < matrix[0].length; r++){
+                   ^
+                   ^
+SpiralArray.java:32: error: class, interface, or enum expected
+SpiralArray.java:32: error: class, interface, or enum expected
+    for(int r = 0; r < matrix[0].length; r++){
+    for(int r = 0; r < matrix[0].length; r++){
+                                         ^
+                                         ^
+SpiralArray.java:33: error: class, interface, or enum expected
+SpiralArray.java:33: error: class, interface, or enum expected
+      for(int c = 0; c < matrix.length; c++){
+      for(int c = 0; c < matrix.length; c++){
+                     ^
+                     ^
+SpiralArray.java:33: error: class, interface, or enum expected
+SpiralArray.java:33: error: class, interface, or enum expected
+      for(int c = 0; c < matrix.length; c++){
+      for(int c = 0; c < matrix.length; c++){
+                                        ^
+                                        ^
+SpiralArray.java:35: error: class, interface, or enum expected
+SpiralArray.java:35: error: class, interface, or enum expected
+        i++;
+        i++;
+        ^
+        ^
+SpiralArray.java:36: error: class, interface, or enum expected
+SpiralArray.java:36: error: class, interface, or enum expected
+      }
+      }
+      ^
+      ^
+SpiralArray.java:39: error: class, interface, or enum expected
+SpiralArray.java:39: error: class, interface, or enum expected
+  }
+  }
+  ^
+  ^
+22 errors
+22 errors
